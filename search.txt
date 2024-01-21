@@ -1,0 +1,17 @@
+Today, Armis and Honeywell have jointly disclosed Crit.IX, 9 new vulnerabilities that Armis researchers found in the Honeywell Experion® DCS platforms (7 of which are critical). These flaws could allow for unauthorised remote code execution on both legacy versions of the Honeywell server and controllers.
+
+ 
+
+If exploited, this would allow an attacker to take over the devices and alter the operation of the DCS controller, whilst also hiding the alterations from the engineering workstation that manages the DCS controller. Exploitation of these vulnerabilities does not require authentication, only network access to the targeted devices. Potentially, any compromised IT, IoT, and OT assets on the same network as the DCS devices could be leveraged for an attack.
+
+ 
+
+Due to the severity of these vulnerabilities and the potential impact, Honeywell and Armis have been working together to investigate these findings, understand the underlying issues and work towards a patch. Honeywell has made security patches available and strongly advises all affected customers to patch immediately.  IT Security Guru is told that a CISA advisory will publish later today.
+
+ 
+
+Tom Gol, CTO of research at Armis said: “Discoveries like Crit.IX are essential to furthering the cybersecurity industry to protect global critical infrastructure entities, especially as technology continues to evolve and become increasingly integrated in today’s businesses. Researchers and analysts play a key role here in helping to identify the potential vulnerabilities in these critical technologies that society depends upon, so that we can better protect our infrastructure.
+
+ 
+
+“Armis has one of the world’s largest asset knowledge bases, tracking billions of devices,⁠ and offers unique expertise to organizations on how to manage their attack landscape. We must continue and increase collaboration industry-wide, which will lead to more discoveries such as Crit.IX, in order to help proactively guide and protect organisations against the threats they are facing to today’s ever-expanding attack surface.”
